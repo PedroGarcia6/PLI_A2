@@ -1,6 +1,4 @@
-Repositório para o trabalho de modelagem de Programação Linear Inteira.
-
-O que fazer:
+O que fazer para usar o código:
 - Instalar Julia;
 - Instalar IJulia (para usar Julia em Jupyter Notebook);
 - Instalar os pacotes do site https://towardsdatascience.com/linear-programming-with-python-and-julia-be9e045a5d17.
