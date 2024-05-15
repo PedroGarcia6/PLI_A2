@@ -8,7 +8,7 @@ A documentação é boa: https://docs.julialang.org/en/v1/.
 Arquivo "PLI_function": contém a função PLI com suas instruções e um exemplo de uso.
 
 Arquivo "PLI_questions": contém algumas questões do trabalho já feitas.
-
+___
 Questões do trabalho:
 
 A1
