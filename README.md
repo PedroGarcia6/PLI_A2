@@ -12,7 +12,7 @@ ___
 Questões do trabalho:
 
 A1
-- [ ] 1
+- [x] 1
 - [x] 2
 
 Lista 1
